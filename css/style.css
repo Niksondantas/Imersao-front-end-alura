@@ -1,5 +1,6 @@
 body{
     background-color: #000;
+    font-family: var(--font-dm-sans);
 }
 h1{
     color: #FFF;
@@ -38,7 +39,6 @@ h1{
     text-decoration: none;
     font-weight: 600px;
     font-size: 16px;
-    font-family: Arial, Helvetica, sans-serif;
 }
 .library{
     background-color: #121212;
@@ -64,7 +64,6 @@ h1{
     border-radius: 0px;
     font-size: 14px;
     font-weight: 700;
-    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     text-decoration: none;
     text-transform: none;
@@ -118,7 +117,6 @@ h1{
     border-radius: 20px;
     font-size: 14px;
     font-weight: 700;
-    font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
     text-transform: none;
     padding: 10px;
